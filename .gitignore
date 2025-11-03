@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environments & local secrets
+.env
+.env.*
+*.local
+*.env
+*.key
+
+# OS/editor clutter
+.DS_Store
+.vscode/
+.idea/
